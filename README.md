@@ -11,7 +11,9 @@ This project analyzes the annual revenue per employee for different industry sec
 The project directory contains the following files and directories:
 
 - `data/`: directory containing the JSON files with the raw data.
-- `PandasCensusAPI_Assessment.ipynb`: Jupyter notebook with the code that analyzes and visualizes the data.
+- `PandasCensusAPI_Assessment.ipynb`: Jupyter notebook that analyzes and visualizes the data related to veterans and COVID industry impact
+- `viz.ipynb`: Jupyter notebook that analyzes and visualizes the data related to COVID's affect on the workforce
+- `education.ipynb`:Jupyter notebook with the code that analyzes and visualizes the data related to race and education in the workforce.
 - `README.md`: this file.
 
 ## Instructions
@@ -23,7 +25,7 @@ To run the analysis and create the visualizations, open the `PandasCensusAPI_Ass
 This project was developed by the following group members:
 
 - Jessica Hoffman (git repo owner): created the API call, analyzed the data and wrote the Jupyter notebook, README file, and final report memo.
-- Vanessa Schroeder: helped with the data cleaning and preprocessing, and analyzed the data.
+- Vanessa Schroeder: helped with the data cleaning and preprocessing, analyzed the data, and wrote the viz notebook
 - Alexandra Reilly: helped with the data cleaning and preprocessing, analyzed the data, and wrote the introduction and ETL report.
 
 ## References
